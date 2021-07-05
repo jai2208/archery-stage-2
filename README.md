@@ -1,2 +1,1 @@
-# archery-stage-2
-game
+# Project_Template_24
